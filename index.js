@@ -12,7 +12,7 @@ import cfonts from 'cfonts';
 
 const { say } =  cfonts;
 
-say("STAR - V2", {
+say("MCROSS - V2", {
   'font': "block",
   'align': "center",
   'colors': ['#ff9900'],
@@ -23,10 +23,10 @@ say("STAR - V2", {
   'maxLength': '15'
 });
 
-say("STAR-BOT-V2 By Excel._.", {
+say('MCROSS-BOT-V2 By Excel._.", {
   'font': "chrome",
   'align': "center",
-  'colors': ["red", "magenta"],
+  'colors': ["blue", "magenta"],
   'background': "transparent",
   'letterSpacing': 0x1,
   'lineHeight': 0x1,
